@@ -7,7 +7,7 @@
     <nodes xmi:type="eer:Entity" xmi:id="_PstP4JRXEeyJB6PTO-iNbg" name="Executivo" relationshipLink="_MpzqIJRYEeyJB6PTO-iNbg _aqPfAJRYEeyJB6PTO-iNbg _KI_L0JRbEeyJB6PTO-iNbg _jxYiUJRbEeyJB6PTO-iNbg" inheritanceSL="_sqhqEJRXEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Entity" xmi:id="_P1sz0JRXEeyJB6PTO-iNbg" name="Ministros STF" AttributeLinkSource="_Dd5FcJReEeyJB6PTO-iNbg _Dvfy0JReEeyJB6PTO-iNbg" relationshipLink="_NR4WwJRYEeyJB6PTO-iNbg _iHGx0JRbEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Entity" xmi:id="_P-RhAJRXEeyJB6PTO-iNbg" name="Ministros" AttributeLinkSource="_dIVqYJReEeyJB6PTO-iNbg _ddhQMJReEeyJB6PTO-iNbg" relationshipLink="_bM3D4JRYEeyJB6PTO-iNbg _oKD6IJRYEeyJB6PTO-iNbg"/>
-    <nodes xmi:type="eer:Entity" xmi:id="_QGzx8JRXEeyJB6PTO-iNbg" name="Legislativo" AttributeLinkSource="_yZEH8JRcEeyJB6PTO-iNbg _jCL10JRiEeyJB6PTO-iNbg" relationshipLink="_NkgX0JRYEeyJB6PTO-iNbg _b-b_4JRaEeyJB6PTO-iNbg _iyHTIJRaEeyJB6PTO-iNbg _jIo8wJRaEeyJB6PTO-iNbg _jRYMkJRbEeyJB6PTO-iNbg" inheritanceSL="_uFw5AJRXEeyJB6PTO-iNbg"/>
+    <nodes xmi:type="eer:Entity" xmi:id="_QGzx8JRXEeyJB6PTO-iNbg" name="Legislativo" AttributeLinkSource="_jCL10JRiEeyJB6PTO-iNbg" relationshipLink="_NkgX0JRYEeyJB6PTO-iNbg _b-b_4JRaEeyJB6PTO-iNbg _iyHTIJRaEeyJB6PTO-iNbg _jIo8wJRaEeyJB6PTO-iNbg _jRYMkJRbEeyJB6PTO-iNbg" inheritanceSL="_uFw5AJRXEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Inheritance" xmi:id="_n1IocJRXEeyJB6PTO-iNbg" disjointness="DISJOINT" inheritanceGL="_r5PXEJRXEeyJB6PTO-iNbg" inheritanceSL="_sqhqEJRXEeyJB6PTO-iNbg _uFw5AJRXEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Relationship" xmi:id="_6XqIcJRXEeyJB6PTO-iNbg" name="Escolhe " relationshipLink="_aqPfAJRYEeyJB6PTO-iNbg _bM3D4JRYEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Relationship" xmi:id="_6lw14JRXEeyJB6PTO-iNbg" name="Define Ministros do STF" relationshipLink="_MpzqIJRYEeyJB6PTO-iNbg _NR4WwJRYEeyJB6PTO-iNbg _NkgX0JRYEeyJB6PTO-iNbg"/>
@@ -37,7 +37,6 @@
     <nodes xmi:type="eer:Attribute" xmi:id="_bbTywJRcEeyJB6PTO-iNbg" name="Partido" AttributeLinkTarget="_lEM_oJRcEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_b1RK4JRcEeyJB6PTO-iNbg" name="Titulo" type="IDENTIFIER" AttributeLinkTarget="_j9pAMJRcEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_dSsyMJRcEeyJB6PTO-iNbg" name="Nome" AttributeLinkTarget="_ksQZsJRcEeyJB6PTO-iNbg"/>
-    <nodes xmi:type="eer:Attribute" xmi:id="_qLaxEJRcEeyJB6PTO-iNbg" name="Cargo" AttributeLinkTarget="_yZEH8JRcEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_9e7CEJRcEeyJB6PTO-iNbg" name="Ano" AttributeLinkTarget="_IJpfYJRdEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_98pf4JRcEeyJB6PTO-iNbg" name="Numero" type="IDENTIFIER" AttributeLinkTarget="_IddzQJRdEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_xxf8MJRdEeyJB6PTO-iNbg" name="CPF" type="IDENTIFIER" AttributeLinkTarget="_Dd5FcJReEeyJB6PTO-iNbg"/>
@@ -98,7 +97,6 @@
     <links xmi:type="eer:AttributeLink" xmi:id="_kU30cJRcEeyJB6PTO-iNbg" source="_PECtYJRXEeyJB6PTO-iNbg" target="_bO9_4JRcEeyJB6PTO-iNbg"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_ksQZsJRcEeyJB6PTO-iNbg" source="_PECtYJRXEeyJB6PTO-iNbg" target="_dSsyMJRcEeyJB6PTO-iNbg"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_lEM_oJRcEeyJB6PTO-iNbg" source="_PECtYJRXEeyJB6PTO-iNbg" target="_bbTywJRcEeyJB6PTO-iNbg"/>
-    <links xmi:type="eer:AttributeLink" xmi:id="_yZEH8JRcEeyJB6PTO-iNbg" source="_QGzx8JRXEeyJB6PTO-iNbg" target="_qLaxEJRcEeyJB6PTO-iNbg"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_HyY18JRdEeyJB6PTO-iNbg" source="_aw8HcJRZEeyJB6PTO-iNbg" target="_AQdyEJRcEeyJB6PTO-iNbg"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_IJpfYJRdEeyJB6PTO-iNbg" source="_aw8HcJRZEeyJB6PTO-iNbg" target="_9e7CEJRcEeyJB6PTO-iNbg"/>
     <links xmi:type="eer:AttributeLink" xmi:id="_IddzQJRdEeyJB6PTO-iNbg" source="_aw8HcJRZEeyJB6PTO-iNbg" target="_98pf4JRcEeyJB6PTO-iNbg"/>
@@ -174,7 +172,7 @@
       <styles xmi:type="notation:DescriptionStyle" xmi:id="_QGzx8pRXEeyJB6PTO-iNbg"/>
       <styles xmi:type="notation:FontStyle" xmi:id="_QGzx85RXEeyJB6PTO-iNbg" fontName="Segoe UI"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_QGzx9JRXEeyJB6PTO-iNbg"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QGzx9ZRXEeyJB6PTO-iNbg" x="876" y="497" width="128" height="43"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QGzx9ZRXEeyJB6PTO-iNbg" x="868" y="511" width="128" height="43"/>
     </children>
     <children xmi:type="notation:Node" xmi:id="_n1IocZRXEeyJB6PTO-iNbg" type="2005" element="_n1IocJRXEeyJB6PTO-iNbg">
       <children xmi:type="notation:DecorationNode" xmi:id="_n1IodpRXEeyJB6PTO-iNbg" type="5006"/>
@@ -216,7 +214,7 @@
       <styles xmi:type="notation:DescriptionStyle" xmi:id="_i1rPYZRYEeyJB6PTO-iNbg"/>
       <styles xmi:type="notation:FontStyle" xmi:id="_i1rPYpRYEeyJB6PTO-iNbg" fontName="Segoe UI"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_i1rPY5RYEeyJB6PTO-iNbg"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i1rPZJRYEeyJB6PTO-iNbg" x="350" y="868" width="176" height="43"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_i1rPZJRYEeyJB6PTO-iNbg" x="329" y="896" width="176" height="43"/>
     </children>
     <children xmi:type="notation:Node" xmi:id="_k8mfoZRYEeyJB6PTO-iNbg" type="2003" element="_k8mfoJRYEeyJB6PTO-iNbg">
       <children xmi:type="notation:DecorationNode" xmi:id="_k8mfppRYEeyJB6PTO-iNbg" type="5004"/>
@@ -370,13 +368,6 @@
       <styles xmi:type="notation:FontStyle" xmi:id="_dStZQpRcEeyJB6PTO-iNbg" fontName="Segoe UI"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_dStZQ5RcEeyJB6PTO-iNbg"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dStZRJRcEeyJB6PTO-iNbg" x="848" y="189"/>
-    </children>
-    <children xmi:type="notation:Node" xmi:id="_qLaxEZRcEeyJB6PTO-iNbg" type="2004" element="_qLaxEJRcEeyJB6PTO-iNbg">
-      <children xmi:type="notation:DecorationNode" xmi:id="_qLaxFpRcEeyJB6PTO-iNbg" type="5005"/>
-      <styles xmi:type="notation:DescriptionStyle" xmi:id="_qLaxEpRcEeyJB6PTO-iNbg"/>
-      <styles xmi:type="notation:FontStyle" xmi:id="_qLaxE5RcEeyJB6PTO-iNbg" fontName="Segoe UI"/>
-      <styles xmi:type="notation:FillStyle" xmi:id="_qLaxFJRcEeyJB6PTO-iNbg"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qLaxFZRcEeyJB6PTO-iNbg" x="1065" y="560"/>
     </children>
     <children xmi:type="notation:Node" xmi:id="_9e7CEZRcEeyJB6PTO-iNbg" type="2004" element="_9e7CEJRcEeyJB6PTO-iNbg">
       <children xmi:type="notation:DecorationNode" xmi:id="_9e7pIJRcEeyJB6PTO-iNbg" type="5005"/>
@@ -745,7 +736,7 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_iyH6NZRaEeyJB6PTO-iNbg" x="-12" y="11"/>
       </children>
       <children xmi:type="notation:DecorationNode" xmi:id="_iyH6NpRaEeyJB6PTO-iNbg" type="6007">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_iyH6N5RaEeyJB6PTO-iNbg" x="35" y="5"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_iyH6N5RaEeyJB6PTO-iNbg" x="18" y="-32"/>
       </children>
       <styles xmi:type="notation:RoutingStyle" xmi:id="_iyH6MZRaEeyJB6PTO-iNbg"/>
       <styles xmi:type="notation:FontStyle" xmi:id="_iyH6MpRaEeyJB6PTO-iNbg" fontName="Segoe UI"/>
@@ -913,11 +904,6 @@
       <styles xmi:type="notation:RoutingStyle" xmi:id="_qLdNVZRcEeyJB6PTO-iNbg"/>
       <styles xmi:type="notation:FontStyle" xmi:id="_qLdNVpRcEeyJB6PTO-iNbg" fontName="Segoe UI"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qLdNV5RcEeyJB6PTO-iNbg" points="[50, -17, -92, 31]$[107, -37, -35, 11]"/>
-    </edges>
-    <edges xmi:type="notation:Edge" xmi:id="_yZEvAJRcEeyJB6PTO-iNbg" type="4007" element="_yZEH8JRcEeyJB6PTO-iNbg" source="_QGzx8ZRXEeyJB6PTO-iNbg" target="_qLaxEZRcEeyJB6PTO-iNbg">
-      <styles xmi:type="notation:RoutingStyle" xmi:id="_yZEvAZRcEeyJB6PTO-iNbg"/>
-      <styles xmi:type="notation:FontStyle" xmi:id="_yZEvApRcEeyJB6PTO-iNbg" fontName="Segoe UI"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_yZEvA5RcEeyJB6PTO-iNbg" points="[64, 21, -106, -38]$[169, 42, -1, -17]"/>
     </edges>
     <edges xmi:type="notation:Edge" xmi:id="_xxhxYJRdEeyJB6PTO-iNbg" type="4007" element="_HyY18JRdEeyJB6PTO-iNbg" source="_aw8HcZRZEeyJB6PTO-iNbg" target="_AQdyEZRcEeyJB6PTO-iNbg">
       <styles xmi:type="notation:RoutingStyle" xmi:id="_xxhxYZRdEeyJB6PTO-iNbg"/>
