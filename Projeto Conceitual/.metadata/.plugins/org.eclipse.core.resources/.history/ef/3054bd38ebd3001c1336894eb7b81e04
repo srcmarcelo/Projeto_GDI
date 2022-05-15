@@ -29,7 +29,7 @@
     <nodes xmi:type="eer:Attribute" xmi:id="_BzY9YJRcEeyJB6PTO-iNbg" name="Nome " AttributeLinkTarget="_KwsPkJRcEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_bO9_4JRcEeyJB6PTO-iNbg" name="Estado" AttributeLinkTarget="_kU30cJRcEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_bbTywJRcEeyJB6PTO-iNbg" name="Partido" AttributeLinkTarget="_lEM_oJRcEeyJB6PTO-iNbg"/>
-    <nodes xmi:type="eer:Attribute" xmi:id="_b1RK4JRcEeyJB6PTO-iNbg" name="CPF" type="IDENTIFIER" AttributeLinkTarget="_j9pAMJRcEeyJB6PTO-iNbg"/>
+    <nodes xmi:type="eer:Attribute" xmi:id="_b1RK4JRcEeyJB6PTO-iNbg" name="Titulo" type="IDENTIFIER" AttributeLinkTarget="_j9pAMJRcEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_dSsyMJRcEeyJB6PTO-iNbg" name="Nome" AttributeLinkTarget="_ksQZsJRcEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_9e7CEJRcEeyJB6PTO-iNbg" name="Ano" AttributeLinkTarget="_IJpfYJRdEeyJB6PTO-iNbg"/>
     <nodes xmi:type="eer:Attribute" xmi:id="_98pf4JRcEeyJB6PTO-iNbg" name="Numero" type="IDENTIFIER" AttributeLinkTarget="_IddzQJRdEeyJB6PTO-iNbg"/>
